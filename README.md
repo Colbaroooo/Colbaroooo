@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Colbaroooo
-- 👀 I’m interested in mechatronics, computer vision and software
+- 👀 I’m interested in mechatronics, software, aditive manufacturing, and robotics
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: colbaroooo@gmail.com
 
